@@ -1,2 +1,8 @@
-First file
-test4git statuse
+cd Downloads 
+git clone https://github.com/Devops1964/Retrieval-Augmented-Generation-.git
+- do some changes
+git add .
+git commit "your commit"
+git push
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
